@@ -1,0 +1,26 @@
+Enter rows:
+3
+Enter columns:
+3
+
+Enter values:
+0 0 0
+0 0 0
+0 0 0
+
+what you gave:
+0 0 0
+0 0 0
+0 0 0
+
+sparse view (row col val):
+
+(no non-zero values found)
+
+---- data size info ----
+total elements in matrix: 9
+non-zero elements: 0
+
+full matrix uses: 36 bytes
+sparse uses: 0 bytes
+memory saved: 36 bytes

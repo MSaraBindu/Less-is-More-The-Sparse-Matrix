@@ -41,19 +41,19 @@ This made the logic easier to understand and implement.
 ---
 
 ## Example
-0 0 0 0 1
-0 2 0 0 0
-0 0 0 1 0
-0 0 0 3 0
+0 0 0 0 1<br>
+0 2 0 0 0<br>
+0 0 0 1 0<br>
+0 0 0 3 0<br>
 
 
 ### Sparse Output
 
 
-0 4 1
-1 1 2
-2 3 1
-3 3 3
+0 4 1<br>
+1 1 2<br>
+2 3 1<br>
+3 3 3<br>
 
 
 ---

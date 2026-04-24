@@ -1,0 +1,28 @@
+Enter rows:
+3
+Enter columns:
+4
+
+Enter values:
+1 0 0 2
+0 0 3 0
+4 0 0 0
+
+what you gave:
+1 0 0 2
+0 0 3 0
+4 0 0 0
+
+sparse view (row col val):
+0 0 1
+0 3 2
+1 2 3
+2 0 4
+
+---- data size info ----
+total elements in matrix: 12
+non-zero elements: 4
+
+full matrix uses: 48 bytes
+sparse uses: 48 bytes
+memory saved: 0 bytes
